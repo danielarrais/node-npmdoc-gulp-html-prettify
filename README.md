@@ -1,9 +1,14 @@
-# api documentation for  [gulp-html-prettify (v0.0.1)](https://github.com/colynb/gulp-html-prettify#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-html-prettify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-html-prettify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-html-prettify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-html-prettify)
+# npmdoc-gulp-html-prettify
+
+#### api documentation for  [gulp-html-prettify (v0.0.1)](https://github.com/colynb/gulp-html-prettify#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-html-prettify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-html-prettify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-html-prettify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-html-prettify)
+
 #### HTML Prettify Plugin for Gulp
 
-[![NPM](https://nodei.co/npm/gulp-html-prettify.png?downloads=true)](https://www.npmjs.com/package/gulp-html-prettify)
+[![NPM](https://nodei.co/npm/gulp-html-prettify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-html-prettify)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-html-prettify/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-gulp-html-prettify_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-html-prettify/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-html-prettify/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-html-prettify/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-html-prettify/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-html-prettify/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-html-prettify/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Colyn Brown",
-        "email": "colyn.brown@gmail.com"
+        "name": "Colyn Brown"
     },
     "bugs": {
         "url": "https://github.com/colynb/gulp-html-prettify/issues"
@@ -50,13 +54,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "colynb",
-            "email": "colyn.brown@gmail.com"
+            "name": "colynb"
         }
     ],
     "name": "gulp-html-prettify",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/colynb/gulp-html-prettify.git"
@@ -67,16 +69,6 @@
     "version": "0.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-html-prettify](#apidoc.module.gulp-html-prettify)
-
-
-
-# <a name="apidoc.module.gulp-html-prettify"></a>[module gulp-html-prettify](#apidoc.module.gulp-html-prettify)
 
 
 
