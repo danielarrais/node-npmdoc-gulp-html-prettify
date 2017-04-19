@@ -54,12 +54,40 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.gulp-html-prettify">module gulp-html-prettify</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.gulp-html-prettify.gulp-html-prettify">
+            function <span class="apidocSignatureSpan"></span>gulp-html-prettify
+            <span class="apidocSignatureSpan">(options)</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.gulp-html-prettify" id="apidoc.module.gulp-html-prettify">module gulp-html-prettify</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.gulp-html-prettify.gulp-html-prettify" id="apidoc.element.gulp-html-prettify.gulp-html-prettify">
+        function <span class="apidocSignatureSpan"></span>gulp-html-prettify
+        <span class="apidocSignatureSpan">(options)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">gulp-html-prettify = function (options){
+  var opts = options ? clone(options) : {};
+  return es.map(function(file, cb){
+  	file.contents = new Buffer(html.prettyPrint(String(file.contents), opts));
+  	cb(null, file);
+  });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
