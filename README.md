@@ -1,6 +1,6 @@
 # npmdoc-gulp-html-prettify
 
-#### api documentation for  [gulp-html-prettify (v0.0.1)](https://github.com/colynb/gulp-html-prettify#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-html-prettify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-html-prettify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-html-prettify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-html-prettify)
+#### basic api documentation for  [gulp-html-prettify (v0.0.1)](https://github.com/colynb/gulp-html-prettify#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-html-prettify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-html-prettify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-html-prettify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-html-prettify)
 
 #### HTML Prettify Plugin for Gulp
 
@@ -66,7 +66,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "bin": {}
 }
 ```
 
